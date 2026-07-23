@@ -34,5 +34,3 @@ I am a results-driven Data Scientist based in Harare, Zimbabwe. I specialize in 
 - **Environments & Deployment:** Docker, Anaconda, AWS (S3, EC2), 
 
 ---
-- 💼 **LinkedIn:** [://linkedin.com](https://linkedin.com)
-- 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
