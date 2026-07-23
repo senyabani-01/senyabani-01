@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Sonday Elias Nyabani! 👋
 
-<!--
-**senyabani-01/senyabani-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Applied Data Scientist | Machine Learning Engineer | Business Intelligence Specialist
 
-Here are some ideas to get you started:
+I am a results-driven Data Scientist based in Harare, Zimbabwe. I specialize in building robust machine learning models, designing advanced predictive analytics pipelines and automating complex business workflows using modern AI and BI architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🧠 **Machine Learning:** Engineering end-to-end predictive models from data ingestion to deployment.
+- 📈 **Business Intelligence:** Crafting interactive, high-impact dashboards that drive data-informed choices.
+- ⚙️ **Automation & AI:** Optimizing organizational workflows by integrating smart automation scripts and generative AI APIs.
+- 📍 **Location:** Open to opportunities in Zimbabwe and global remote collaborations.
+
+---
+
+## 🛠️ Technical Toolbox
+
+### 💻 Languages & Frameworks
+- **Languages:** Python,Java, JavaScript, SQL (PostgreSQL, MySQL,MongoDB), R, Bash
+- **ML Frameworks:** Scikit-Learn, TensorFlow, PyTorch, XGBoost
+
+### 🔮 Data Engineering & AI
+- **Analytics & Math:** NumPy, Pandas, SciPy, Statistical Modeling, Predictive Analytics
+- **AI & Automation:** Large Language Models (LLMs), LangChain, API Integration, Cron Jobs
+
+### 📊 BI & Visualization
+- **Dashboards:** Power BI (DAX, Power Query)
+- **Python Viz:** Matplotlib, Seaborn, Plotly, Streamlit,
+
+### ⚙️ DevOps & Cloud Tools
+- **Version Control:** Git, GitHub, GitLab, Airflow,  Git actions
+- **Environments & Deployment:** Docker, Anaconda, AWS (S3, EC2), 
+
+---
+- 💼 **LinkedIn:** [://linkedin.com](https://linkedin.com)
+- 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
