@@ -19,7 +19,9 @@ I am a results-driven Data Scientist based in Harare, Zimbabwe. I specialize in 
 
 ### 💻 Languages & Frameworks
 - **Languages:** Python,Java, JavaScript, SQL (PostgreSQL, MySQL,MongoDB), R, Bash
-- **ML Frameworks:** Scikit-Learn, TensorFlow, PyTorch, XGBoost
+- **ML Frameworks:** Scikit-Learn, TensorFlow, PyTorch, XGBoost,NLTK
+- **Backend Frameworks:** Django, Flask, FastAPI,
+- **Frontend Frameworks:** Next.js (React), Vue.js
 
 ### 🔮 Data Engineering & AI
 - **Analytics & Math:** NumPy, Pandas, SciPy, Statistical Modeling, Predictive Analytics
