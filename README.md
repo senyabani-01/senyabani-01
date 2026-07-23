@@ -1,6 +1,6 @@
 # Hi, I'm Sonday Elias Nyabani! 👋
 
-### 📊 Applied Data Scientist | Machine Learning Engineer | Business Intelligence Specialist
+### 📊 Applied Data Scientist | Data Engineer | Business Intelligence Specialist
 
 I am a results-driven Data Scientist based in Harare, Zimbabwe. I specialize in building robust machine learning models, designing advanced predictive analytics pipelines and automating complex business workflows using modern AI and BI architectures.
 
