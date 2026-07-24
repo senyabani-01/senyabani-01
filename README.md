@@ -2,7 +2,7 @@
 
 ### 📊 Applied Data Scientist | Data Engineer | Business Intelligence Specialist
 
-I am a results-driven Data Scientist based in Harare, Zimbabwe. I specialize in building robust machine learning models, designing advanced predictive analytics pipelines and automating complex business workflows using modern AI and BI architectures.
+I am a results-driven Applied Data Scientist|Data Engineer|Business Intelligence Specialist with 2 years of exprience based in Harare, Zimbabwe. I specialize in building robust machine learning models, designing advanced predictive analytics pipelines and automating complex business workflows using modern AI and BI architectures.
 
 ---
 
